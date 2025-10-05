@@ -22,8 +22,8 @@ A machine learning application that classifies emails as spam or ham (not spam) 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd Spam-Email-Classification-using-NLP-and-Machine-Learning-main
+git clone https://github.com/ABHINAVJINDAL26/email-spam-detector.git
+cd email-spam-detector
 ```
 
 2. Install required dependencies:
